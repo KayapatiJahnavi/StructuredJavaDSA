@@ -5,7 +5,5 @@ class Solution {
             n /= 3;
         }
         return n == 1;
-    }
-
-     System.out.println(isPowerOfThree(1));  // true (3^0)
+    } 
 }
